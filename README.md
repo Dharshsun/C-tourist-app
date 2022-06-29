@@ -1,2 +1,1 @@
-# C-tourist-app
-for SIH2022 
+Machine learning scrips in python.
